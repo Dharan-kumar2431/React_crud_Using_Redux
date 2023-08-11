@@ -1,0 +1,22 @@
+.backbtn{
+    width: 5rem;
+}
+
+.editForm{
+    width: 50%;
+    padding: 1rem;
+    position: relative;
+    left: 50%;
+    top:50%;
+    transform: translate(-40%,-5%);
+}
+
+.editForm label{
+    font-size: 1.08rem;
+    font-weight: bolder;
+}
+
+.editForm input{
+    margin: 1rem;
+    width: 80%;
+}
